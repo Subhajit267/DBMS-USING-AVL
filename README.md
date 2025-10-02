@@ -260,8 +260,6 @@ balance_factor = height(left_subtree) - height(right_subtree)
 ![Profile](https://img.shields.io/badge/Developer-Subhajit_Halder-blue?style=for-the-badge)
 
 📧 **Email**: [subhajithalder267@outlook.com](mailto:subhajithalder267@outlook.com)  
-🔗 **GitHub**: [Subhajit Halder](https://github.com/SubhajitHalder)  
-💼 **LinkedIn**: [Subhajit Halder](https://linkedin.com/in/subhajit-halder)
 
 </div>
 
